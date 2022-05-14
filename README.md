@@ -2,7 +2,7 @@
 
 To view a live example, [click here](https://disneyplus-clone-53918.web.app/)
 
-<!-- <img src="assets/images/gthome.png"> -->
+<img src="/public/images/gthome.png">
 
 ## Features
 * Responsive Desing 
@@ -17,6 +17,12 @@ To view a live example, [click here](https://disneyplus-clone-53918.web.app/)
 * Redux (toolkit)
 * Styled Components
 * Firebase
+
+## Movies
+<img src="/public/images/gtmovies.png" width="600">
+
+## Login
+<img src="public/images/gtlogin.png" width="600">
 
 
 
