@@ -9,7 +9,8 @@ To view a live example, [click here](https://disneyplus-clone-53918.web.app/)
 * Fast Interface
 * Simple usage
 
-## Single Page
+## Pages
+✔️ Single page
 
 ## Technologies Used
 * React Js
